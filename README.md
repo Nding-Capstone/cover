@@ -15,10 +15,6 @@ Capstone 디자인 (산학협력프로젝트)
 
 
 ## Reference
-- Trello  
-  https://trello.com/b/3pt7JvbF  
-  
-  
-- Google Drive  
-  https://drive.google.com/drive/folders/1SLRUf3MPBY2YbxeZUp4Yo8lVtXkonGBd?usp=sharing
+- [Trello](https://trello.com/b/3pt7JvbF)
+- [Google Drive](https://drive.google.com/drive/folders/1SLRUf3MPBY2YbxeZUp4Yo8lVtXkonGBd?usp=sharing)
   
